@@ -1,0 +1,4 @@
+MyTestProj
+==========
+
+first git-repository
