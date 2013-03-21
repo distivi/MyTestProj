@@ -12,6 +12,9 @@
 
 int main(int argc, char *argv[])
 {
+  for(;;) {
+    NSLog(@"ololo");
+  }
   @autoreleasepool {
       return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
   }
